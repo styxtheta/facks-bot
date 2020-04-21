@@ -10,7 +10,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import random
 import nltk
 from nltk.stem.lancaster import LancasterStemmer
-#nltk.download('punkt')
+nltk.download('punkt')
 
 
 stemmer = LancasterStemmer()
