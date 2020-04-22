@@ -1,4 +1,4 @@
-# Facks-bot
+# Course-faq-bot
 A simple command line bot to answer all your queries. Please don't use hello or hi messages :(
 Use the csv file for reference questions.
 Execute requirements.txt first to make sure the program runs.
